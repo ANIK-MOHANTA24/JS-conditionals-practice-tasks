@@ -11,3 +11,5 @@ Create a JavaScript program that calculates the Body Mass Index (BMI) and assign
     - Otherwise, you are obese.
 
 */
+
+https://www.geeksforgeeks.org/check-if-given-number-is-perfect-square-in-cpp/amp/?fbclid=IwAR0IPpTG5paQmihX-jjgs-dtALd0BDQUu3p6d7oD2I2GFgZN0X-luZ1HxeA
