@@ -10,3 +10,18 @@ write a simple if-else.
 also, write it using ternary operator.
 
  */
+
+// ************simple if-else operator***************
+let num1 = 40;
+let num2 = 41;
+
+if (num1 > num2) {
+  console.log(num1 * 2)
+}
+else{
+  console.log(num1 + num2)
+}
+
+// ***********ternary operator******************
+
+num1 > num2 ? console.log(num1 * 2) : console.log(num1 + num2);
